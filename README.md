@@ -1,4 +1,4 @@
-# 🐢🎯 Turtle Points Game
+# Turtle Points Game
 
 لعبة بسيطة باستخدام مكتبة **Turtle** في لغة **Python**.
 
